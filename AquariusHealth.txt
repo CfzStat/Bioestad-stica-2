@@ -1,4 +1,4 @@
-Participante	Antes	Después
+Participante	Antes	Despues
 1	38	45
 2	11	24
 3	34	41
