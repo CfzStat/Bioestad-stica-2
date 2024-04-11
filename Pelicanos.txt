@@ -1,4 +1,4 @@
-Individuos	Isla Rapa Nui	Isla Cook
+Individuos	IslaRapaNui	IslaCook
 1	162	183
 2	323	347
 3	220	247
