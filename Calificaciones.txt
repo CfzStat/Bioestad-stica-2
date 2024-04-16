@@ -1,4 +1,4 @@
-Inteligencia	Horas	Nivelsocial	Calificaciones
+Inteligencia Horas Nivelsocial Calificaciones
 109	10	3	4.1
 120	8	2	4.3
 112	21	4	6.4
