@@ -1,4 +1,4 @@
-tamañosemillas
+tamanosemillas
 42
 45
 41
