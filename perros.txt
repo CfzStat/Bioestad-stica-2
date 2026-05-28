@@ -17,24 +17,24 @@ Ascan	24.82
 Ascan	19.9
 Ascan	34.75
 Ascan	21.9
-Dog Chow	15.76
-Dog Chow	23.84
-Dog Chow	23.84
-Dog Chow	17.7
-Dog Chow	29.45
-Dog Chow	23.79
-Dog Chow	33.15
-Dog Chow	30.97
-Dog Chow	24.91
-Dog Chow	32.16
-Dog Chow	21.89
-Dog Chow	22.33
-Dog Chow	24.76
-Dog Chow	18.12
-Dog Chow	22.8
-Dog Chow	23.45
-Dog Chow	26.98
-Dog Chow	21.33
+Dog_Chow	15.76
+Dog_Chow	23.84
+Dog_Chow	23.84
+Dog_Chow	17.7
+Dog_Chow	29.45
+Dog_Chow	23.79
+Dog_Chow	33.15
+Dog_Chow	30.97
+Dog_Chow	24.91
+Dog_Chow	32.16
+Dog_Chow	21.89
+Dog_Chow	22.33
+Dog_Chow	24.76
+Dog_Chow	18.12
+Dog_Chow	22.8
+Dog_Chow	23.45
+Dog_Chow	26.98
+Dog_Chow	21.33
 Mimados	24.57
 Mimados	26.8
 Mimados	31.89
