@@ -1,0 +1,73 @@
+Marca	Peso
+Ascan	33.15
+Ascan	21.43
+Ascan	17.82
+Ascan	15.77
+Ascan	26.98
+Ascan	30.15
+Ascan	29.87
+Ascan	24.3
+Ascan	18.72
+Ascan	19.32
+Ascan	27.94
+Ascan	16
+Ascan	21.87
+Ascan	25.78
+Ascan	24.82
+Ascan	19.9
+Ascan	34.75
+Ascan	21.9
+Dog Chow	15.76
+Dog Chow	23.84
+Dog Chow	23.84
+Dog Chow	17.7
+Dog Chow	29.45
+Dog Chow	23.79
+Dog Chow	33.15
+Dog Chow	30.97
+Dog Chow	24.91
+Dog Chow	32.16
+Dog Chow	21.89
+Dog Chow	22.33
+Dog Chow	24.76
+Dog Chow	18.12
+Dog Chow	22.8
+Dog Chow	23.45
+Dog Chow	26.98
+Dog Chow	21.33
+Mimados	24.57
+Mimados	26.8
+Mimados	31.89
+Mimados	30.15
+Mimados	24.56
+Mimados	14.78
+Mimados	16.8
+Mimados	28.94
+Mimados	27.77
+Mimados	22.67
+Mimados	15.76
+Mimados	17.89
+Mimados	34.53
+Mimados	21.12
+Mimados	34.73
+Mimados	32.78
+Mimados	33.49
+Mimados	30.09
+Pedigree	32.78
+Pedigree	35.98
+Pedigree	22.34
+Pedigree	26.72
+Pedigree	19.75
+Pedigree	25.89
+Pedigree	29.93
+Pedigree	26.78
+Pedigree	21.12
+Pedigree	15.72
+Pedigree	27.15
+Pedigree	24.57
+Pedigree	21.72
+Pedigree	27.82
+Pedigree	23.34
+Pedigree	25.66
+Pedigree	21.15
+Pedigree	32.51
